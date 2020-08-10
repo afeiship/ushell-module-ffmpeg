@@ -1,0 +1,24 @@
+{
+  "name": "@feizheng/ushell-module-ffmpeg",
+  "version": "1.0.0",
+  "description": "Ffmpeg to env path.",
+  "main": "index.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/ushell-module-ffmpeg.git"
+  },
+  "keywords": [
+    "ushell",
+    "unix",
+    "shell",
+    "ushell-module-ffmpeg"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/ushell-module-ffmpeg/issues"
+  },
+  "homepage": "https://github.com/afeiship/ushell-module-ffmpeg",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}
