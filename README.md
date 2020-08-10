@@ -7,7 +7,13 @@
 
 ## installation
 ```shell
+# 1. download ffmpeg to $GITHUB_HOME/ffmpeg
+
+# 2. install pkg
 npm i -S @feizheng/ushell-module-ffmpeg
+
+# 3. check version
+ffmpeg -version
 ```
 
 ## dependencies
