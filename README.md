@@ -10,6 +10,11 @@
 npm i -S @feizheng/ushell-module-ffmpeg
 ```
 
+## dependencies
+- https://ffmpeg.org/
+- https://github.com/FFmpeg/FFmpeg
+- https://ffmpeg.org/download.html#build-mac
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/ushell-module-ffmpeg/blob/master/LICENSE.txt).
 
