@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/ushell-module-ffmpeg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ffmpeg to env path.",
   "main": "index.sh",
   "repository": {
