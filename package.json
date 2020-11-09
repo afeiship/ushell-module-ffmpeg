@@ -1,6 +1,6 @@
 {
-  "name": "@feizheng/ushell-module-ffmpeg",
-  "version": "1.0.1",
+  "name": "@jswork/ushell-module-ffmpeg",
+  "version": "1.0.0",
   "description": "Ffmpeg to env path.",
   "main": "index.sh",
   "repository": {
@@ -9,9 +9,9 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-ffmpeg"
+    "ffmpeg",
+    "audio",
+    "video"
   ],
   "license": "MIT",
   "bugs": {
