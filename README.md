@@ -26,6 +26,7 @@ mv ffmpeg bin/
 - https://ffmpeg.org/
 - https://github.com/FFmpeg/FFmpeg
 - https://ffmpeg.org/download.html#build-mac
+- https://superuser.com/questions/624561/install-ffmpeg-on-os-x
 
 ## license
 Code released under [the MIT license](https://github.com/afeiship/ushell-module-ffmpeg/blob/master/LICENSE.txt).
