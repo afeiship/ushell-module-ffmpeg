@@ -7,13 +7,19 @@
 
 ## installation
 ```shell
-# 1. download ffmpeg to $GITHUB_HOME/ffmpeg
+npm i @jswork/ushell-module-ffmpeg
+```
 
-# 2. install pkg
-npm i -S @jswork/ushell-module-ffmpeg
+> ffmpeg install
+```shell
+# 1. down load build package.
+cd ~/soft
+wget https://evermeet.cx/ffmpeg/ffmpeg-4.3.1.7z
+open ffmpeg-4.3.1.7z
+mv ffmpeg bin/
 
-# 3. check version
-ffmpeg -version
+# 2. install `@jswork/ushell-module-ffmpeg`
+# 3. ffmpeg -version
 ```
 
 ## dependencies
