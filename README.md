@@ -31,11 +31,11 @@ mv ffmpeg bin/
 ## license
 Code released under [the MIT license](https://github.com/afeiship/ushell-module-ffmpeg/blob/master/LICENSE.txt).
 
-[version-image]: https://img.shields.io/npm/v/@feizheng/ushell-module-ffmpeg
-[version-url]: https://npmjs.org/package/@feizheng/ushell-module-ffmpeg
+[version-image]: https://img.shields.io/npm/v/@jswork/ushell-module-ffmpeg
+[version-url]: https://npmjs.org/package/@jswork/ushell-module-ffmpeg
 
-[license-image]: https://img.shields.io/npm/l/@feizheng/ushell-module-ffmpeg
+[license-image]: https://img.shields.io/npm/l/@jswork/ushell-module-ffmpeg
 [license-url]: https://github.com/afeiship/ushell-module-ffmpeg/blob/master/LICENSE.txt
 
-[download-image]: https://img.shields.io/npm/dm/@feizheng/ushell-module-ffmpeg
-[download-url]: https://www.npmjs.com/package/@feizheng/ushell-module-ffmpeg
+[download-image]: https://img.shields.io/npm/dm/@jswork/ushell-module-ffmpeg
+[download-url]: https://www.npmjs.com/package/@jswork/ushell-module-ffmpeg
